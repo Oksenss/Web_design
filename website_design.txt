@@ -1,0 +1,188 @@
+1. serious/elegant- for luxury and elegance, based on thin serif typefaces, golden or pastel colors
+and big high-quality images
+2. minimalist/simple - focusses on the essential text content, using small or medium-sized sans-serif
+black text, lines, and few images and icons
+3. plain/neutral - design that gets out of the way by using neutral and small typefaces, and a very
+structured layout. Common in big corporations
+4. bold/confident - makes an impact, by featuring big and bold typography, paired with confident use of big 
+bright colored blocks
+5. calm/peaceful - for products and services that care, transmitted by calming pastel colors, soft serif
+headings, and matching images 
+6. startup/upbeat - widely used in startups, featuring medium-sized sans-serif typefaces, light-grey text and
+backgrounds, and rounded image
+7. playful/fun - colorful and round designs, fueled by creative elements like hand-drawn icons or illustrations
+animations and fun language
+
+#1 Typography
+Rules for typefaces:
+Serif - traditional websites
+Sans serif - modern websites 
+1. Use only good and popular typefaces and play it safe with sans serif fonts (like: inter, open sans, roboto,
+montserrat, work sans, lato) or with serif (merriweather, aleo, playfair display, cormorant, cardo, lora)
+2. It is ok to use only one typeface, if you want limit to 2 typefaces
+3. Choose the right typeface according to your website personality 
+4. When choosing font-sizes, limit choices
+5. Use a font size beetween 16 px to 32 px for normal text
+6. For long text(like a blog post), try a size of 20px or even bigger
+7. For headlines, you can go really big(50px+) and bold(600+), depending on personality
+8. For any text, don't use a font weight under 400 (regular)
+
+Create a good reading experience:
+1. Use less than 75 characters per line
+2. For normal-sized text, use a line height between 1.5 and 2. For big text go below 1.5
+3. Decrease letter spacing in headlines, if it looks unnatural (this will come from exp)
+4. Experiment with all caps for short titles. Make them small and bold and increase letter-spacing
+5. Usually don't justify text
+6. Don't center long text blocks. Small blocks are fine
+
+Use "TYPE SCALE" to create the best user experience for typography.
+Use "Google fonts" to get the best looking free fonts.
+
+#2 colors
+1. Make the main color match your website's personality: colors convey meaning.(Super important)
+- RED draws a lot of attention, symbolizes power, passion, excitement
+- ORANGE is less aggressive, conveys happiness, cheerfulness, and creativity
+- YELLOW means joy, brightness, intelligence
+- GREEN represents harmony, nature, growth, and health
+- BLUE (most often used) is associated with peace, trustworthiness, and professionalism
+- PURPLE conveys wealth, wisdom, and magic
+- PINK represents romance, care, and affection
+- BROWN is associated with nature, durability and comfort
+- BLACK symbolizes power, elegance and minimalism, but also grief and sorrow
+2. Use a good color tone! Don't choose a random tone or CSS named colors. "OPEN COLOR
+WEBSITE" or "TALEWINDCSS" or "TAIL UI COLORS 2" is great to use.
+3. You need at least two types of colors in your color palette: a main color and
+a grey color(don't have to be gray might be as well a very dark version of another color)
+4. With more experience, you can add more colors: accent(secondary) colors (use a tool)
+This color cannot be random there must be some correlation between main and accent color
+To create accent colors use "COOLERS" or "PALLETTON.COM"
+5. For diversity, create lighter and darker "versions"(tints and shades)
+If you want to create tints and shades on your own use "TINT & SHADE GENERATOR"
+6. Use your main color to draw attention to the most important elements on the page.
+Main color can usually be found in logo.
+7. Use colors to add interesting accents or make entire components or sections stand out.
+8. You can try to use your color strategically in images and illustrations.
+Colors and typography:
+1. On dark colored background, try to use a tint of the background("lighter version") for text
+2. Text should usually not be completely black. Lighten it up if looks heavy and uninviting 
+3. Don't make text too light! Use a tool called "COOLORS" to check contrast between text and 
+background colors
+Contrast ratio needs to be at least 4.5:1 for normal text and 3.1 for large text 
+
+#3 images 
+1. Different types of images: product photos, storytelling photos, illustrations, patterns(don't 
+overuse them)
+2. Use images to support your website's message and story. So onnly use relevant images 
+3. Prefer original images. If not possible, use original-looking stock images(not generic ones)
+
+Use images well:
+1. Try to show real people to trigger user's emotions
+2. If necessary, crop image to fit your message
+3. Experiment combining photos, illustrations and patterns
+
+Handle text on images:
+1. Darker or brighten image(completely or partially, using a gradient)
+2. Position text into neutral image area (but we need to be careful with mobile devices)
+3. Put the text in the box 
+
+Some technical details:
+1. To account for high res screens, make image dimensions 2x as big as their displayed size
+2. Compress images for a lower file size and better performance using "SQUOOSH" (Always remember 
+about this!) 
+3. When using multiple images side-by-side, make sure thay have the exact same dimensions
+
+#4 Icons 
+1. Use a good icon pack, there are tons of free and paid icon packs ("Phosphor Icons" , "Ionicons", "IconS8")
+2. Use only one icon pack. Don't mix icons from different icon packs
+3. Use SVG icons or icon fonts. Don't use bitmap image format(.jpg and .png)
+4. Adjust to website personality! Roundness, weight and filled/outlined depend on typography
+
+When to use icons:
+1. Use icons to provide visual assistance to text 
+2. Use icons for product feature blocks
+3. Use icons associated with actions, and label them (unless no space or icon is 100% clear)
+4. Use icons as bullet points 
+
+Use icons well:
+1. To keep icons neutral, use the same color as text. To draw more attention, use a different color.
+2. Don't confuse your users: icons need to make sense and fit the text or action.
+3. Don't make icons larger than what they were designed for. If needed, enclose them in shape
+
+#5 shadows
+1. You don't have to use shadows! Only use them if it makes sense for the website personality.
+2. Use shadows in small doses: don't add shadows to every element
+3. Go light on shadows, don't make them too dark 
+
+Use shadows in the right situation:
+1. Use small shadows for smaller elements that should stand out(to draw attention)
+2. Use medium-sized shadows for larger areas that should stand out a bit more.
+3. Use large shadows for elements that should really float above the interface
+4. Experiment with changing shadows on mouse interaction (click and hover)
+5. You can also experiment with glows (colored shadows)
+
+#6 border-radius 
+1. Use border-radius to increase playfulness and fun of the design, to make it less serious
+Less border-radius = serious/elegant 		More border-radius = playful/fun
+2. Typefaces have a certain roundness: make sure that border-radius matches that roundness!
+3. Use border-radius on buttons, images, around icons, standout sections and other elements
+
+#7 Whitespace
+The right amount of whitespace makes designs look clean, modern and polished 
+Whitespace communicates how different pieces of information are related to one another 
+Whitespace implies invisible relationships between the elements of a layout
+
+1. Use tons of whitespace between sections 
+2. Use a lot of whitespace between groups of elements 
+3. Use whitespace between elements 
+4. Inside groups of elements try to use whitespace instead of lines(borders) 
+5. The more elements (or groups of elements) belong together, the closer they should be
+6. Start with a lot of whitespace, maybe even too much! Then remove whitespace from there
+too much whitespace looks detached, too little looks too crammed
+7. Match other design choices. If you have big text or big icons, you need more whitespace
+8. Try a hard rule, such as using multiples 16px for all spacing 
+
+#8 Visual Hierarchy
+Visual hierarchy is about establishing which elements of a design are the most important ones
+Visual hierarchy is about drawing attention to these most important elements
+Visual hierarchy is about defining a "path" for users, to guide them through the page
+We use a combination of position size colors, spacing, borders and shadows to establish a
+meaningful visual hierarchy between elements/components
+
+Rules
+1. Position important elements closer to the top of the page, where they get more attention
+2. Use images mindfully, as they draw a lot of attention (larger images get more attention)
+3. Whitespace creates separation, so use whitespace strategically to emphasize elements
+
+Visual hierarchy for text elements:
+1. For text elements, use font size, font weight, color, and whitespace to convey importance 
+2. What text elements to emphasize? Titles, sub-titles, links, buttons, data points, icons 
+We can also de-emphasize less important text, like labels or secondary/additional information
+
+Visual hierarchy between components:
+1. Emphasize an important component using background color, shadow, or border(or multiple)
+2. Try emphasizing some component A over the component B by de-emphasizing component B
+3. What components to emphasize? Testimonials, call-to-action sections, highlight sections,
+preview cards, forms, pricing tables, important rows/columns in tables, etc.
+
+#9 User experience 
+UX rules for usability:
+1. Don't design complicated layouts. Don't reinvent the wheel. Use patterns that users already know
+2. Make your call-to-action the most prominent element, and make the dext descriptive 
+3. Use blue text and underlined text only for links!
+4. Animations should have a purpose and be fast: between 200 and 500 ms
+5. In forms, align labels and fields in a single vertical line, to make the form easier to scan
+6. Offer users good feedback for all actions: form errors, form success, etc.
+7. Place action buttons where they will create an effect (law of locality)
+
+UX rules for website content:
+1. Use a descriptive, keyword-focused headline on your main page. Don't be vague or fancy!
+2. Only include relevant information, efficiently! Cut out fluff and make the content 100% clear
+3. Use simple words! Avoid technical jargon and "smart-sounding" words 
+4. Break up text with sub-headings, images, block quotes, bullet points, etc.
+
+RETURNING TO THE WEBSITE PERSONALITY:
+1. Think about how do you want your website to appear to other users? What vibe do you want to transmit?
+2. Choose one of the website personalities accordingly 
+3. Apply personality traits for each of the design ingredients (that we learned about: typography, colors, etc.)
+
+1. SERIOUS/ELEGANT personality 
